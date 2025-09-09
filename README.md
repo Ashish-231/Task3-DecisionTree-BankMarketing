@@ -32,5 +32,3 @@ As part of my **Data Science Internship at SkillCraft Technology**, I built a **
 
 ---
 
-- **Decision Tree Plot**  
-  ![Decision Tree](images/decision_tree.png)
